@@ -88,3 +88,7 @@ section{
     z-index: 1000;
 }
 
+.header .logo img{
+    height: 6rem;
+}
+
