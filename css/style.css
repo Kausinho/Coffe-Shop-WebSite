@@ -26,3 +26,7 @@ html{
     scroll-behavior: smooth;
 }
 
+html::-webkit-scrollbar{
+    width: .8rem;
+}
+
