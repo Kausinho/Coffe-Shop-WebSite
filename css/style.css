@@ -131,3 +131,7 @@ section{
     transform-origin: top;
 }
 
+.header .search-form.active{
+    transform: scaleY(1);
+}
+
